@@ -23,6 +23,6 @@ ________________
    ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
    ![PS](	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
    _____________
-   	![status](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaluizay&theme=blue-green)
+   
  
   
