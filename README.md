@@ -6,9 +6,8 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/amanda-luiza-b76b04221/)
 ________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaluizay&show_icons=true&theme=radical) 
-<div style="display: inline_block"><br>
 
-</div>
+ ![GIF](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 ________________
 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -26,6 +25,9 @@ ________________
    ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
    ![PS](	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
    _____________
-   
- ![GIF](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
   
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+</div>
