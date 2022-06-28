@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Amanda Luiza 
-- 🌱 Estudante no IFSP - Análise e desenvolvimento de sistemas ...
-- 📫 How to reach me: luiza.amandasilvah@gmail.com ...
-
-<!---
-amandaluizay/amandaluizay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Welcome 💗
+- Redes sociais 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/) ](https://www.linkedin.com/in/amanda-luiza-b76b04221/)
