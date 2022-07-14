@@ -1,23 +1,24 @@
-### Welcome 💗
+### ![i2](https://icongr.am/feather/code.svg?size=18&color=9d4edd) Welcome ![i](https://icongr.am/entypo/code.svg?size=20&color=9d4edd)
 
-#### Cursando Análise e desenvolvimento de sistemas - 4º semestre [[IFSP] ](https://bra.ifsp.edu.br/)
+#### ![i2](https://icongr.am/feather/code.svg?size=18&color=9d4edd) Cursando Análise e desenvolvimento de sistemas - 4º semestre [[IFSP] ](https://bra.ifsp.edu.br/) ![i](https://icongr.am/entypo/code.svg?size=20&color=9d4edd)
+
  
-#### Redes sociais
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/amanda-luiza-b76b04221/)
+#### Redes sociais:
+[![LinkedIn](https://icongr.am/devicon/linkedin-plain-wordmark.svg?size=103&color=c77dff)](https://www.linkedin.com/in/amanda-luiza-b76b04221/)
 ________________
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaluizay&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaluizay&show_icons=true&theme=synthwave) 
+<img height="150em" src="https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif"/>
 
- ![GIF](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+
 ________________
- ![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
- ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
- ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
- ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-   ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-   ![PS](	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+ ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=230d49)
+ ![Django](https://icongr.am/devicon/django-plain.svg?size=50&color=240046)
+ ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=3c096c)
+ ![HTML](https://icongr.am/devicon/html5-plain.svg?size=50&color=7b2cbf) 
+ ![CSS](https://icongr.am/devicon/css3-plain.svg?size=50&color=c77dff) 
+ ![Mysql](https://icongr.am/devicon/mysql-plain-wordmark.svg?size=70&color=9d4edd)
+   ![GIT](https://icongr.am/devicon/git-plain.svg?size=50&color=e0aaff)
+   ![PS](	https://icongr.am/devicon/photoshop-plain.svg?size=50&color=b8c0ff)
    _____________
   
 <div align="center">
