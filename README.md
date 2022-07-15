@@ -11,9 +11,9 @@ ________________
 
 
 ________________
- ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=230d49)
- ![Django](https://icongr.am/devicon/django-plain.svg?size=50&color=240046)
- ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=3c096c)
+ ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=7b2cbf)
+ ![Django](https://icongr.am/devicon/django-plain.svg?size=50&color=7b2cbf)
+ ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=7b2cbf)
  ![HTML](https://icongr.am/devicon/html5-plain.svg?size=50&color=7b2cbf) 
  ![CSS](https://icongr.am/devicon/css3-plain.svg?size=50&color=c77dff) 
  ![Mysql](https://icongr.am/devicon/mysql-plain-wordmark.svg?size=70&color=9d4edd)
