@@ -11,14 +11,17 @@ ________________
 
 
 ________________
- ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=7b2cbf)
- ![Django](https://icongr.am/devicon/django-plain.svg?size=50&color=7b2cbf)
- ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=7b2cbf)
- ![HTML](https://icongr.am/devicon/html5-plain.svg?size=50&color=7b2cbf) 
+ ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=c77dff)
+ ![Django](https://icongr.am/devicon/django-plain.svg?size=50&color=c77dff)
+ ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=c77dff)
+ ![C#](https://icongr.am/devicon/csharp-plain.svg?size=50&color=c77dff)
+ ![HTML](https://icongr.am/devicon/html5-plain.svg?size=50&color=c77dff) 
  ![CSS](https://icongr.am/devicon/css3-plain.svg?size=50&color=c77dff) 
- ![Mysql](https://icongr.am/devicon/mysql-plain-wordmark.svg?size=70&color=9d4edd)
-   ![GIT](https://icongr.am/devicon/git-plain.svg?size=50&color=e0aaff)
-   ![PS](	https://icongr.am/devicon/photoshop-plain.svg?size=50&color=b8c0ff)
+ ![JS](https://icongr.am/devicon/javascript-plain.svg?size=50&color=c77dff)
+ ![Mysql](https://icongr.am/devicon/mysql-plain-wordmark.svg?size=70&color=c77dff)
+   ![GIT](https://icongr.am/devicon/git-plain.svg?size=50&color=c77dff)
+   ![PS](	https://icongr.am/devicon/photoshop-plain.svg?size=50&color=c77dff)
+ 
    _____________
   
 <div align="center">
