@@ -16,10 +16,12 @@ ________________
 
 
 ________________
- ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=c77dff)
- ![Django](https://icongr.am/devicon/django-plain.svg?size=50&color=c77dff)
  ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=c77dff)
  ![C#](https://icongr.am/devicon/csharp-plain.svg?size=50&color=c77dff)
+ ![Net](https://icongr.am/devicon/dot-net-plain-wordmark.svg?size=50&color=c77dff)
+ ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=c77dff)
+ ![Django](https://icongr.am/devicon/django-plain.svg?size=50&color=c77dff)
+ ![Java](https://icongr.am/devicon/java-plain.svg?size=50&color=c77dff)
  ![HTML](https://icongr.am/devicon/html5-plain.svg?size=50&color=c77dff) 
  ![CSS](https://icongr.am/devicon/css3-plain.svg?size=50&color=c77dff) 
  ![JS](https://icongr.am/devicon/javascript-plain.svg?size=50&color=c77dff)
