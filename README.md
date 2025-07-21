@@ -2,8 +2,6 @@
 
 ### ![i2](https://icongr.am/feather/code.svg?size=18&color=9d4edd) Welcome ![i](https://icongr.am/entypo/code.svg?size=20&color=9d4edd)
 
-#### ![i2](https://icongr.am/feather/code.svg?size=18&color=9d4edd) Cursando Análise e desenvolvimento de sistemas - 6º semestre [[IFSP] ](https://bra.ifsp.edu.br/) ![i](https://icongr.am/entypo/code.svg?size=20&color=9d4edd)
-
  
 #### Redes sociais:
 [![LinkedIn](https://icongr.am/devicon/linkedin-plain-wordmark.svg?size=103&color=c77dff)](https://www.linkedin.com/in/amanda-luiza-b76b04221/)
