@@ -5,7 +5,7 @@
 <img src="download%20%2820%29.png" width="500">
 </td>
 <td align="center" valign="middle">
-<img src="hatsune-miku-dance.gif" height="470">
+<img src="hatsune-miku-dance.gif" height="450">
 </td>
 </tr>
 <tr>
